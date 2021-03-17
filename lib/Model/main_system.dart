@@ -22,6 +22,13 @@ Future<List<Data>> getAllData() async {
   return listofdata;
 }
 
+
+
+
+
+
+
+
 List<MaterialColor> randomcolor = [
   Colors.green,
   Colors.blue,
